@@ -30,11 +30,10 @@ This project involves clustering cryptocurrency data using K-Means and Principal
 ## File Structure
 
 crypto-clustering/
-│
-├── Crypto_Clustering.ipynb          # Main Jupyter Notebook with all steps
-├── crypto_market_data.csv           # Input data file
-├── README.md                        # Project documentation
-└── requirements.txt                 # List of dependencies
+- Crypto_Clustering.ipynb                                # Main Jupyter Notebook with all steps and answers
+- Resources/crypto_market_data.csv                       # Input data file
+- Starter_code/Crypto_Clustering_starter_code.ipynb      # Starter code file
+- README.md                                              # Project documentation
 
 ---
 
